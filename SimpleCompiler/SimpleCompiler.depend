@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1483492766 source:e:\simplecompiler\grammar.cpp
+	"L.h"
+	"Operator.h"
+
+1483452681 e:\simplecompiler\l.h
+	<iostream>
+	<string.h>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<sstream>
+	<vector>
+
+1483281076 e:\simplecompiler\operator.h
+
+1483452657 source:e:\simplecompiler\main.cpp
+	"L.h"
+
+1483451741 source:e:\simplecompiler\objectcode.cpp
+	"L.h"
+
+1483452487 source:e:\simplecompiler\optimization.cpp
+	"L.h"
+	"EQU.h"
+
+1483072580 e:\simplecompiler\equ.h
+
+1483449052 source:e:\simplecompiler\scanner.cpp
+	"L.h"
+	"KEY.h"
+
+1483280110 e:\simplecompiler\key.h
+
+1483492766 source:f:\编译原理课程设计\各种途径获得\1.刘诚阳学长给\simplecompiler\grammar.cpp
+	"L.h"
+	"Operator.h"
+
+1483452681 f:\编译原理课程设计\各种途径获得\1.刘诚阳学长给\simplecompiler\l.h
+	<iostream>
+	<string.h>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<sstream>
+	<vector>
+
+1483281076 f:\编译原理课程设计\各种途径获得\1.刘诚阳学长给\simplecompiler\operator.h
+
+1483451741 source:f:\编译原理课程设计\各种途径获得\1.刘诚阳学长给\simplecompiler\objectcode.cpp
+	"L.h"
+
+1483452487 source:f:\编译原理课程设计\各种途径获得\1.刘诚阳学长给\simplecompiler\optimization.cpp
+	"L.h"
+	"EQU.h"
+
+1483072580 f:\编译原理课程设计\各种途径获得\1.刘诚阳学长给\simplecompiler\equ.h
+
+1483449052 source:f:\编译原理课程设计\各种途径获得\1.刘诚阳学长给\simplecompiler\scanner.cpp
+	"L.h"
+	"KEY.h"
+
+1483280110 f:\编译原理课程设计\各种途径获得\1.刘诚阳学长给\simplecompiler\key.h
+
+1483492766 source:c:\users\john\desktop\编译课程设计\simplecompiler\grammar.cpp
+	"L.h"
+	"Operator.h"
+
+1483452681 c:\users\john\desktop\编译课程设计\simplecompiler\l.h
+	<iostream>
+	<string.h>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<sstream>
+	<vector>
+
+1483281076 c:\users\john\desktop\编译课程设计\simplecompiler\operator.h
+
+1510238895 source:c:\users\john\desktop\编译课程设计\simplecompiler\main.cpp
+	"L.h"
+
+1483451741 source:c:\users\john\desktop\编译课程设计\simplecompiler\objectcode.cpp
+	"L.h"
+
+1483452487 source:c:\users\john\desktop\编译课程设计\simplecompiler\optimization.cpp
+	"L.h"
+	"EQU.h"
+
+1483072580 c:\users\john\desktop\编译课程设计\simplecompiler\equ.h
+
+1483449052 source:c:\users\john\desktop\编译课程设计\simplecompiler\scanner.cpp
+	"L.h"
+	"KEY.h"
+
+1483280110 c:\users\john\desktop\编译课程设计\simplecompiler\key.h
+
